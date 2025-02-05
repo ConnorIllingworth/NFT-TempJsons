@@ -1,0 +1,12 @@
+{
+    "name": "Beta Crate",
+    "symbol": "BC",
+    "description": "A loot crate containing various skins.",
+    "image": "https://arweave.net/your_image_link.png",
+    "attributes": {
+      "common": [],
+      "rare": [],
+      "legendary": []
+    }
+  }
+  
