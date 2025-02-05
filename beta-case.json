@@ -1,12 +1,5 @@
 {
-    "name": "Beta Crate",
-    "symbol": "BC",
     "description": "A loot crate containing various skins.",
-    "image": "https://raw.githubusercontent.com/ConnorIllingworth/NFT-TempJsons/main/cratepng.png",
-    "attributes": {
-      "common": [],
-      "rare": [],
-      "legendary": []
-    }
+    "image": "https://raw.githubusercontent.com/ConnorIllingworth/NFT-TempJsons/main/cratepng.png"
   }
   
