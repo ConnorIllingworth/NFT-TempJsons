@@ -2,7 +2,7 @@
     "name": "Beta Crate",
     "symbol": "BC",
     "description": "A loot crate containing various skins.",
-    "image": "https://raw.githubusercontent.com/ConnorIllingworth/NFT-TempJsons/refs/heads/main/DALL%C2%B7E%202025-02-05%2008.07.28%20-%20A%20detailed%203D%20rendering%20of%20a%20military-style%20loot%20crate%20with%20a%20rugged%20metal%20design%2C%20reinforced%20corners%2C%20and%20a%20secure%20latch%20system.%20The%20crate%20has%20a%20slig.webp",
+    "image": "https://raw.githubusercontent.com/ConnorIllingworth/NFT-TempJsons/main/cratepng.png",
     "attributes": {
       "common": [],
       "rare": [],
